@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#98ECB9</color>
+    <color name="dimGrey">#B8ECBB</color>
+    <color name="bgColor">#D31E1D</color>
+    <color name="background_color">#E0F7FA</color>
+    <color name="headerbackgroundColor">#7E57C2</color>
+    <color name="headerTxtColor">#FFFFFF</color>
+    <color name="titletxtcolor">#004D40</color>
+    <color name="timeStampcolor">#80CBC4</color>
+    <color name="contenttxtcolor">#263238</color>
+    <color name="bordercolor">#D1C4E9</color>
+    <color name="shimmer_color">#DDDDDD</color>
+
+
+</resources>
